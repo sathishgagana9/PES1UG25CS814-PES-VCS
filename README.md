@@ -45,8 +45,7 @@ Ubuntu 22.04 (WSL)
 * Deduplication
 * Integrity verification
 
-### 📸 Output
-
+![Phase1](screenshots/phase1.png)
 ---
 
 ## 🌳 Phase 2: Tree Objects
@@ -57,7 +56,7 @@ Ubuntu 22.04 (WSL)
 * Directory structure handling
 * Deterministic ordering
 
-### 📸 Output
+![Phase2](screenshots/phase2.png)
 
 ---
 
@@ -69,7 +68,7 @@ Ubuntu 22.04 (WSL)
 * Save/load index file
 * Track metadata (mode, hash, path)
 
-### 📸 Output
+![Phase3](screenshots/phase3.png)
 
 ---
 
@@ -82,13 +81,13 @@ Ubuntu 22.04 (WSL)
 * Parent linking (history)
 * HEAD and branch updates
 
-### 📸 Output
+![Phase3](screenshots/phase4.png)
 
 ---
 
 ## 🔁 Integration Test
 
-### 📸 Output
+![Integration](screenshots/integration.png)
 
 ---
 
