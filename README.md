@@ -1,13 +1,13 @@
 # PES-VCS — Version Control System from Scratch
 
-## 👨‍💻 Author
+## 💻 Author
 
  Gagana B S
 PES1UG25CS814
 
 ---
 
-## 📌 Objective
+##  Objective
 
 To build a simplified version control system similar to Git that:
 
@@ -18,13 +18,13 @@ To build a simplified version control system similar to Git that:
 
 ---
 
-## ⚙️ Platform
+## Platform
 
 Ubuntu 22.04 (WSL)
 
 ---
 
-## 🧱 Project Structure
+##  Project Structure
 
 ```
 .pes/
@@ -36,9 +36,9 @@ Ubuntu 22.04 (WSL)
 
 ---
 
-## 🚀 Phase 1: Object Storage
+##  Phase 1: Object Storage
 
-### ✔ Features Implemented
+### Features Implemented
 
 * SHA-256 hashing
 * Object storage with directory sharding
@@ -48,9 +48,9 @@ Ubuntu 22.04 (WSL)
 ![Phase1](screenshots/phase1.png)
 ---
 
-## 🌳 Phase 2: Tree Objects
+##  Phase 2: Tree Objects
 
-### ✔ Features Implemented
+### Features Implemented
 
 * Tree serialization
 * Directory structure handling
@@ -60,9 +60,9 @@ Ubuntu 22.04 (WSL)
 
 ---
 
-## 📂 Phase 3: Index (Staging Area)
+##  Phase 3: Index (Staging Area)
 
-### ✔ Features Implemented
+### Features Implemented
 
 * Add files to index
 * Save/load index file
@@ -72,9 +72,9 @@ Ubuntu 22.04 (WSL)
 
 ---
 
-## 📝 Phase 4: Commit System
+##  Phase 4: Commit System
 
-### ✔ Features Implemented
+### Features Implemented
 
 * Tree creation from index
 * Commit object creation
@@ -85,13 +85,13 @@ Ubuntu 22.04 (WSL)
 
 ---
 
-## 🔁 Integration Test
+##  Integration Test
 
 ![Integration](screenshots/integration.png)
 
 ---
 
-## 🧠 Analysis Questions
+## Analysis Questions
 
 ### Q5.1 — Branch Checkout
 
@@ -149,7 +149,7 @@ Solution:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 Successfully implemented a mini version of Git with:
 
@@ -160,7 +160,7 @@ Successfully implemented a mini version of Git with:
 
 ---
 
-## 🔗 GitHub Repository
+##  GitHub Repository
 
 https://github.com/sathishgagana9/PES1UG25CS814-PES-VCS
 
