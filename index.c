@@ -10,7 +10,7 @@ extern int object_write(ObjectType, const void *, size_t, ObjectID *);
 extern void hash_to_hex(const ObjectID *, char *);
 
 // 🔴 local hex → hash (fixes your error)
-void hex_to_hash_local(const char *hex, ObjectID *id) {
+  static void hex_to_hash_local(const char *hex, ObjectID *id) {
     for (int i = 0; i < HASH_SIZE; i++) {
         sscanf(hex + 2*i, "%2hhx", &id->hash[i]);
     }
